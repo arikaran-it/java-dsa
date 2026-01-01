@@ -1,8 +1,8 @@
 class BigOf3{
     public  static void main(String args[]){
-        int a = 1;
-        int b = 2;
-        int c = 3;
+        int a = 14;
+        int b = 24;
+        int c = 34;
         if(a>=b && a>=c){
             System.out.println("Greatest: a");
         }
